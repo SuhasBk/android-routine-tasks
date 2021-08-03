@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pantomime</string>
+
+    <string name="HtEPaper">HT E-PAPER</string>
+
+    <string name="stocks">STOCKS</string>
+    <string name="stockHint">Enter the name of the stock</string>
+
+    <string name="corona">COVID-19</string>
+    <string name="stateHint">Enter the state</string>
+    <string name="cityHint">Enter the city</string>
+
+</resources>
